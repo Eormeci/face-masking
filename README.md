@@ -28,9 +28,6 @@ Face detection, landmark extraction, masking, and swapping using dlib's 68-point
 
 ![Face Cutting — Extracted Face](assets/face_cutting_2.png)
 
-### Face Swapping — Result
-
-![Face Swapping](assets/face_swapping_3.png)
 
 ## Tech Stack
 
